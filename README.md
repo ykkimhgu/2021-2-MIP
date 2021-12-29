@@ -32,7 +32,7 @@ The implementation is based on two papers:
 
 ##### GitHub
 
-1. Go to the https://github.com/hkim1207/2021MIP
+1. Go to the https://github.com/Jo951128/2021-2-MIP
 2. Download all the files in your local PC
 
 ##### Anaconda
