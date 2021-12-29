@@ -17,7 +17,8 @@ The implementation is based on two papers:
 
 ## Requirements
 
-- U
+- ubuntu 16.04 or window
+- `cudatoolkit=10.2`
 - Python >=3.8 
 - Numpy `pip install numpy`
 - PIL `pip3 install pillow`
